@@ -5,3 +5,6 @@ def Xayr():
     print("hammaga Xayr bolalar")
 
 salom()
+
+def any():
+    print("Hello world")
